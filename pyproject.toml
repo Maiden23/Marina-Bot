@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 discord = "^1.7.3"
 characters = "^0.1.0"
+colour = "^0.1.5"
 
 [tool.poetry.dev-dependencies]
 
