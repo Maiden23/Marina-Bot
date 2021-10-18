@@ -25,7 +25,7 @@ async def on_message(message):
     await message.channel.send("Hello")  
     return
   if message.content.startswith("$sup"):
-    await message.channel.send("Nothing much , how about you?!")
+    await message.channel.send("sup")
 
 
   if message.content.startswith("$characters"):
